@@ -37,17 +37,37 @@
   width: 1537px;
   height: 1000px;
 }
+.About-Me {
+ color: red;
+ position: absolute;
+ top: 140%;
+ left: 10%;
+ width: 45%;
+} 
+.aboutme-paragraph {
+  color: #fff;
+  position: absolute;
+  top: 150%;
+  left: 15%;
+  width: 35%;
+}
+
+
+
+
 
 #project {
   background-color: #01140b;
   padding-bottom: 20%;
 }
+
 .glow {
   width: 700px;
   height: 470px;
   position: relative;
-  margin-top:7%;
+  margin-top: 5%;
 }
+
 
 .glow-1 {
   width: 700px;
