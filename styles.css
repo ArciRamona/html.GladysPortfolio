@@ -1,3 +1,21 @@
+
+/* body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+} */
+
+/* .main {
+  flex: 1;
+} */
+
+/* .container {
+  display: flex;
+} */
+
 #title {
   /* background-color: #1b5459; */
 }
@@ -23,7 +41,7 @@
   top: 5%;
   text-align: center;
   position: absolute;
-  top: 70%;
+  top: 65%;
   left: 20%;
   transform: translate(-50%, -50%);
   color: white
@@ -40,14 +58,14 @@
 .About-Me {
  color: red;
  position: absolute;
- top: 140%;
+ top: 170%;
  left: 10%;
  width: 45%;
 } 
 .aboutme-paragraph {
   color: #fff;
   position: absolute;
-  top: 150%;
+  top: 180%;
   left: 15%;
   width: 35%;
 }
