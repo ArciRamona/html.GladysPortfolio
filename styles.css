@@ -58,14 +58,14 @@
 .About-Me {
  color: red;
  position: absolute;
- top: 170%;
+ top: 140%;
  left: 10%;
  width: 45%;
 } 
 .aboutme-paragraph {
   color: #fff;
   position: absolute;
-  top: 180%;
+  top: 150%;
   left: 15%;
   width: 35%;
 }
